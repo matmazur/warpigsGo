@@ -3,6 +3,6 @@ group repo
 
 lista obecnosci
 Natalia
-Kasia
+Kasia Jankowska
 Mazur Pan
 
