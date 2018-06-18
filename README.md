@@ -1,6 +1,8 @@
 # warpigsGo
 group repo
-lista obecnosci
 
+lista obecnosci
 Natalia
 Kasia
+Mazur Pan
+
